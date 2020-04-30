@@ -1,0 +1,45 @@
+.h1 {
+  color:green;
+  font-size: 40px;
+  text-align: center;
+}
+.h2{
+  color: brown;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+.h3{
+  color: purple;
+  font-size: 18px;
+}
+.intro{
+  color: blue;
+  font-family: fantasy;
+  font-style: normal;
+}
+.pic{
+  float: left;
+  padding: 10px
+}
+.pics{
+  float: right;
+  padding-left: 10px;
+}
+.content{
+  font-family: cursive;
+  font-size: 16px;
+  font-style: oblique;
+}
+.dest_intro{
+  color: brown;
+}
+.popular{
+  color: red;
+  font-size: 18px;
+  font-variant: small-caps;
+}
+.destinations{
+  color: orange;
+  text-decoration: underline;
+}
